@@ -1,5 +1,5 @@
 int main() {
 
-    std::cout << "HelloWorld! This is Chris." << std::endl;
+    std::cout << "Fight On!" << std::endl;
 
 }
